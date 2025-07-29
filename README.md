@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**gabrielholanda5/gabrielholanda5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Opa! Eu sou o Gabriel Holanda 🙋🏻‍♂️
 
-Here are some ideas to get you started:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-holanda-51322735b/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+5585999278495)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrielholandap/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielholanda5&show_icons=true&theme=dark)
+
+## Tecnologias que uso 
+
+<div style="display : inline_block"><br/>
+  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="springboot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="center" alt="springboot" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
